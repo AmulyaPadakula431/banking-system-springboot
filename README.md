@@ -33,10 +33,8 @@ This is a simple Banking System REST API built with Spring Boot and MySQL. It su
 - `PUT /api/accounts/{id}` – Update a bank account
 - `DELETE /api/accounts/{id}` – Delete a bank account
 
-## ⚙️ How to Run
+## How to Run
 
 1. Make sure MySQL is running and update your database details in `application.properties`.
-2. Run the Spring Boot application from your IDE or use:
-   ```bash
-   mvn spring-boot:run
+2. Run the Spring Boot application from your IDE
 3. Use postman to test APIs
